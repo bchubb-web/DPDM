@@ -1,0 +1,23 @@
+{
+  "name": "DPDM",
+  "version": "1.0.0",
+  "description": "Dynamic page dependancy manager, scrapes your page and cross references with all event listeners and query selections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchubb-web/DPDM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchubb-web/DPDM/issues"
+  },
+  "homepage": "https://github.com/bchubb-web/DPDM#readme",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
