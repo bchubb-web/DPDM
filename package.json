@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bchubb-web/DPDM#readme",
   "devDependencies": {
+    "@types/node": "^20.11.29",
     "typescript": "^5.4.2"
   }
 }
